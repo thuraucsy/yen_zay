@@ -1,0 +1,22 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+  - node_modules
+before_script: npm i
+script:
+  - npm run build
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: build
+  on:
+    branch: master
+env:
+  global:
+  - API_GATEWAY_INVOKE_URL: $API_GATEWAY_INVOKE_URL
+  - API_GATEWAY_REGION: $API_GATEWAY_REGION
+  - API_GATEWAY_ACCESSKEY: $API_GATEWAY_ACCESSKEY
+  - API_GATEWAY_SECRETKEY: $API_GATEWAY_SECRETKEY
