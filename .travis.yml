@@ -1,3 +1,4 @@
+os: linux
 language: node_js
 node_js:
   - "stable"
@@ -9,9 +10,10 @@ script:
   - npm run build
 deploy:
   provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
   local_dir: build
+  token: $GITHUB_TOKEN
+  keep_history: false
+  edge: true
   on:
     branch: master
 env:
@@ -20,3 +22,6 @@ env:
   - API_GATEWAY_REGION: $API_GATEWAY_REGION
   - API_GATEWAY_ACCESSKEY: $API_GATEWAY_ACCESSKEY
   - API_GATEWAY_SECRETKEY: $API_GATEWAY_SECRETKEY
+  - GITHUB_TOKEN: $GITHUB_TOKEN
+  - GITHUB_EMAIL: thura.ucsy@gmail.com
+  - GITHUB_REFERENCE: github.com/thuraucsy/yen_zay.git
