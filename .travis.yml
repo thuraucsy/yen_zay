@@ -24,4 +24,5 @@ env:
   - API_GATEWAY_SECRETKEY: $API_GATEWAY_SECRETKEY
   - GITHUB_TOKEN: $GITHUB_TOKEN
   - GITHUB_EMAIL: thura.ucsy@gmail.com
+  - GITHUB_USERNAME: Thura Aung
   - GITHUB_REFERENCE: github.com/thuraucsy/yen_zay.git
