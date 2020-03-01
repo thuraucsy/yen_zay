@@ -15,7 +15,24 @@ function main() {
     apigClient.invokeApi({}, 'today', 'GET', {}, {})
     .then(function(result){
         console.log(result.data);
-        fs.writeFileSync('build/today.json', JSON.stringify(result.data, null, 4));
+
+        var apiLocalFolder = 'build/v1/';
+        var apiFolderObj = {
+            dayFolder: `${apiLocalFolder}day/`,
+            monthFolder: `${apiLocalFolder}month/`,
+            yearFolder: `${apiLocalFolder}year/`,
+        };
+
+        if (!fs.existsSync(apiLocalFolder)) {
+            fs.mkdirSync(apiLocalFolder);
+        }
+        for (var key in apiFolderObj) {
+            if (!fs.existsSync(apiFolderObj[key])) {
+                fs.mkdirSync(apiFolderObj[key]);
+            }
+        }
+
+        fs.writeFileSync(`${apiFolderObj.dayFolder}today.json`, JSON.stringify(result.data, null, 4));
     }).catch( function(err){
         console.log(err);
     });
