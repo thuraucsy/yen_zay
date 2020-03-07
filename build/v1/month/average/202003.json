@@ -1,0 +1,58 @@
+{
+    "Items": {
+        "01": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 109.31310588461535,
+            "MMKRatePerYen": 13.143939999999994,
+            "DayTime": "01 00:00",
+            "USDRatePerDollarTotal": 2842.140752999999,
+            "MMKRatePerYenTotal": 341.7424399999998,
+            "Count": 26
+        },
+        "02": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 109.29985890909096,
+            "MMKRatePerYen": 13.14510120454545,
+            "DayTime": "02 00:00",
+            "USDRatePerDollarTotal": 4809.193792000002,
+            "MMKRatePerYenTotal": 578.3844529999998,
+            "Count": 44
+        },
+        "03": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 109.2597807727273,
+            "MMKRatePerYen": 13.146999045454544,
+            "DayTime": "03 00:00",
+            "USDRatePerDollarTotal": 4807.430354000001,
+            "MMKRatePerYenTotal": 578.467958,
+            "Count": 44
+        },
+        "04": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 108.6231812826086,
+            "MMKRatePerYen": 13.142748021739129,
+            "DayTime": "04 00:00",
+            "USDRatePerDollarTotal": 4996.666338999996,
+            "MMKRatePerYenTotal": 604.5664089999999,
+            "Count": 46
+        },
+        "05": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 108.62218124999994,
+            "MMKRatePerYen": 12.894036178571426,
+            "DayTime": "05 00:00",
+            "USDRatePerDollarTotal": 6082.842149999997,
+            "MMKRatePerYenTotal": 722.0660259999999,
+            "Count": 56
+        },
+        "06": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 107.55807890384625,
+            "MMKRatePerYen": 12.951212480769225,
+            "DayTime": "06 00:00",
+            "USDRatePerDollarTotal": 5593.020103000005,
+            "MMKRatePerYenTotal": 673.4630489999997,
+            "Count": 52
+        }
+    }
+}
