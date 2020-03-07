@@ -1,5 +1,23 @@
 {
     "Items": {
+        "10": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 104.03947816666667,
+            "MMKRatePerYen": 13.060907296296298,
+            "DayTime": "10 00:00",
+            "USDRatePerDollarTotal": 5618.131821,
+            "MMKRatePerYenTotal": 705.2889940000001,
+            "Count": 54
+        },
+        "11": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 105.71117256000008,
+            "MMKRatePerYen": 12.687770019999995,
+            "DayTime": "11 00:00",
+            "USDRatePerDollarTotal": 5285.558628000004,
+            "MMKRatePerYenTotal": 634.3885009999998,
+            "Count": 50
+        },
         "01": {
             "YearMonth": "2020/03",
             "USDRatePerDollar": 109.31310588461535,
@@ -53,6 +71,33 @@
             "USDRatePerDollarTotal": 5593.020103000005,
             "MMKRatePerYenTotal": 673.4630489999997,
             "Count": 52
+        },
+        "07": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 106.76689435483871,
+            "MMKRatePerYen": 12.769000129032253,
+            "DayTime": "07 00:00",
+            "USDRatePerDollarTotal": 3309.773725,
+            "MMKRatePerYenTotal": 395.8390039999999,
+            "Count": 31
+        },
+        "08": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 106.50672953488377,
+            "MMKRatePerYen": 12.800008999999996,
+            "DayTime": "08 00:00",
+            "USDRatePerDollarTotal": 4579.789370000002,
+            "MMKRatePerYenTotal": 550.4003869999998,
+            "Count": 43
+        },
+        "09": {
+            "YearMonth": "2020/03",
+            "USDRatePerDollar": 105.21177112962971,
+            "MMKRatePerYen": 12.964762740740746,
+            "DayTime": "09 00:00",
+            "USDRatePerDollarTotal": 5681.435641000005,
+            "MMKRatePerYenTotal": 700.0971880000003,
+            "Count": 54
         }
     }
 }
