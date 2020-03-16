@@ -1,0 +1,22 @@
+{
+    "Items": {
+        "01": {
+            "YearMonth": "2020/04",
+            "USDRatePerDollar": 109.14314578723402,
+            "MMKRatePerYen": 12.767689297872334,
+            "DayTime": "01 00:00",
+            "USDRatePerDollarTotal": 5129.727851999999,
+            "MMKRatePerYenTotal": 600.0813969999997,
+            "Count": 47
+        },
+        "02": {
+            "YearMonth": "2020/04",
+            "USDRatePerDollar": 108.6600742857143,
+            "MMKRatePerYen": 12.835613204081632,
+            "DayTime": "02 00:00",
+            "USDRatePerDollarTotal": 5324.343640000001,
+            "MMKRatePerYenTotal": 628.9450469999999,
+            "Count": 49
+        }
+    }
+}
