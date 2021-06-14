@@ -1,0 +1,274 @@
+{
+    "Items": {
+        "10": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.79212715624996,
+            "MMKRatePerYen": 14.913057874999994,
+            "DayTime": "10 00:00",
+            "USDRatePerDollarTotal": 3545.3480689999988,
+            "MMKRatePerYenTotal": 477.2178519999998,
+            "Count": 32
+        },
+        "11": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.6540453030303,
+            "MMKRatePerYen": 14.927570181818178,
+            "DayTime": "11 00:00",
+            "USDRatePerDollarTotal": 3651.583495,
+            "MMKRatePerYenTotal": 492.60981599999985,
+            "Count": 33
+        },
+        "12": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.83625134482756,
+            "MMKRatePerYen": 14.909913448275853,
+            "DayTime": "12 00:00",
+            "USDRatePerDollarTotal": 3214.2512889999994,
+            "MMKRatePerYenTotal": 432.38748999999973,
+            "Count": 29
+        },
+        "13": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.90150461538458,
+            "MMKRatePerYen": 14.895969999999995,
+            "DayTime": "13 00:00",
+            "USDRatePerDollarTotal": 2883.439119999999,
+            "MMKRatePerYenTotal": 387.29521999999986,
+            "Count": 26
+        },
+        "14": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.94964503030305,
+            "MMKRatePerYen": 14.890049999999993,
+            "DayTime": "14 00:00",
+            "USDRatePerDollarTotal": 3661.3382860000006,
+            "MMKRatePerYenTotal": 491.37164999999976,
+            "Count": 33
+        },
+        "15": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.26265755882359,
+            "MMKRatePerYen": 14.644187235294124,
+            "DayTime": "15 00:00",
+            "USDRatePerDollarTotal": 3782.930357000002,
+            "MMKRatePerYenTotal": 497.9023660000002,
+            "Count": 34
+        },
+        "16": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.32643996969703,
+            "MMKRatePerYen": 14.436443393939388,
+            "DayTime": "16 00:00",
+            "USDRatePerDollarTotal": 3673.772519000002,
+            "MMKRatePerYenTotal": 476.4026319999998,
+            "Count": 33
+        },
+        "17": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.79094768421048,
+            "MMKRatePerYen": 14.261138315789463,
+            "DayTime": "17 00:00",
+            "USDRatePerDollarTotal": 4248.056011999998,
+            "MMKRatePerYenTotal": 541.9232559999996,
+            "Count": 38
+        },
+        "18": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.55396113157892,
+            "MMKRatePerYen": 14.308519631578935,
+            "DayTime": "18 00:00",
+            "USDRatePerDollarTotal": 4239.050522999999,
+            "MMKRatePerYenTotal": 543.7237459999996,
+            "Count": 38
+        },
+        "19": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.4325954285714,
+            "MMKRatePerYen": 14.338031785714284,
+            "DayTime": "19 00:00",
+            "USDRatePerDollarTotal": 3120.1126719999993,
+            "MMKRatePerYenTotal": 401.46488999999997,
+            "Count": 28
+        },
+        "20": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.43269155555552,
+            "MMKRatePerYen": 14.333597999999997,
+            "DayTime": "20 00:00",
+            "USDRatePerDollarTotal": 3008.682671999999,
+            "MMKRatePerYenTotal": 387.0071459999999,
+            "Count": 27
+        },
+        "21": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.22845924242424,
+            "MMKRatePerYen": 14.356306424242433,
+            "DayTime": "21 00:00",
+            "USDRatePerDollarTotal": 3670.539155,
+            "MMKRatePerYenTotal": 473.7581120000003,
+            "Count": 33
+        },
+        "22": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.4939937567567,
+            "MMKRatePerYen": 14.337023945945951,
+            "DayTime": "22 00:00",
+            "USDRatePerDollarTotal": 4125.2777689999975,
+            "MMKRatePerYenTotal": 530.4698860000002,
+            "Count": 37
+        },
+        "23": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.88983717142852,
+            "MMKRatePerYen": 14.34365348571428,
+            "DayTime": "23 00:00",
+            "USDRatePerDollarTotal": 3916.1443009999984,
+            "MMKRatePerYenTotal": 502.0278719999998,
+            "Count": 35
+        },
+        "24": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 112.1894991176471,
+            "MMKRatePerYen": 14.336488205882354,
+            "DayTime": "24 00:00",
+            "USDRatePerDollarTotal": 3814.4429700000014,
+            "MMKRatePerYenTotal": 487.440599,
+            "Count": 34
+        },
+        "25": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 112.14961867741931,
+            "MMKRatePerYen": 14.525776645161297,
+            "DayTime": "25 00:00",
+            "USDRatePerDollarTotal": 3476.6381789999987,
+            "MMKRatePerYenTotal": 450.29907600000024,
+            "Count": 31
+        },
+        "26": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 112.0607432222222,
+            "MMKRatePerYen": 14.54943496296297,
+            "DayTime": "26 00:00",
+            "USDRatePerDollarTotal": 3025.6400669999994,
+            "MMKRatePerYenTotal": 392.83474400000017,
+            "Count": 27
+        },
+        "27": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 112.04443163999998,
+            "MMKRatePerYen": 14.490400000000005,
+            "DayTime": "27 00:00",
+            "USDRatePerDollarTotal": 2801.1107909999996,
+            "MMKRatePerYenTotal": 362.2600000000001,
+            "Count": 25
+        },
+        "28": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.98229203030299,
+            "MMKRatePerYen": 14.498136363636373,
+            "DayTime": "28 00:00",
+            "USDRatePerDollarTotal": 3695.4156369999987,
+            "MMKRatePerYenTotal": 478.4385000000003,
+            "Count": 33
+        },
+        "29": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.8280906060606,
+            "MMKRatePerYen": 14.524601393939388,
+            "DayTime": "29 00:00",
+            "USDRatePerDollarTotal": 3690.3269899999996,
+            "MMKRatePerYenTotal": 479.31184599999983,
+            "Count": 33
+        },
+        "30": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.75638978787879,
+            "MMKRatePerYen": 14.5343253939394,
+            "DayTime": "30 00:00",
+            "USDRatePerDollarTotal": 3687.9608630000002,
+            "MMKRatePerYenTotal": 479.6327380000002,
+            "Count": 33
+        },
+        "01": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.77197137499992,
+            "MMKRatePerYen": 14.646270718749992,
+            "DayTime": "01 00:00",
+            "USDRatePerDollarTotal": 3544.7030839999975,
+            "MMKRatePerYenTotal": 468.68066299999975,
+            "Count": 32
+        },
+        "02": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.77580512500006,
+            "MMKRatePerYen": 14.915613062499997,
+            "DayTime": "02 00:00",
+            "USDRatePerDollarTotal": 3544.825764000002,
+            "MMKRatePerYenTotal": 477.2996179999999,
+            "Count": 32
+        },
+        "03": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.86047182758624,
+            "MMKRatePerYen": 14.901313241379306,
+            "DayTime": "03 00:00",
+            "USDRatePerDollarTotal": 3214.953683000001,
+            "MMKRatePerYenTotal": 432.1380839999999,
+            "Count": 29
+        },
+        "04": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 111.35129422857136,
+            "MMKRatePerYen": 14.845512885714278,
+            "DayTime": "04 00:00",
+            "USDRatePerDollarTotal": 3897.2952979999977,
+            "MMKRatePerYenTotal": 519.5929509999997,
+            "Count": 35
+        },
+        "05": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.91452407142853,
+            "MMKRatePerYen": 14.878281571428573,
+            "DayTime": "05 00:00",
+            "USDRatePerDollarTotal": 3105.6066739999987,
+            "MMKRatePerYenTotal": 416.59188400000005,
+            "Count": 28
+        },
+        "06": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.74189215999996,
+            "MMKRatePerYen": 14.917732,
+            "DayTime": "06 00:00",
+            "USDRatePerDollarTotal": 2768.5473039999993,
+            "MMKRatePerYenTotal": 372.9433,
+            "Count": 25
+        },
+        "07": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.7577678823529,
+            "MMKRatePerYen": 14.915489529411763,
+            "DayTime": "07 00:00",
+            "USDRatePerDollarTotal": 3765.7641079999985,
+            "MMKRatePerYenTotal": 507.12664399999994,
+            "Count": 34
+        },
+        "08": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.61586806451615,
+            "MMKRatePerYen": 14.931030129032255,
+            "DayTime": "08 00:00",
+            "USDRatePerDollarTotal": 3429.0919100000006,
+            "MMKRatePerYenTotal": 462.8619339999999,
+            "Count": 31
+        },
+        "09": {
+            "YearMonth": "2021/06",
+            "USDRatePerDollar": 110.68939668965513,
+            "MMKRatePerYen": 14.926240068965525,
+            "DayTime": "09 00:00",
+            "USDRatePerDollarTotal": 3209.9925039999985,
+            "MMKRatePerYenTotal": 432.8609620000002,
+            "Count": 29
+        }
+    }
+}

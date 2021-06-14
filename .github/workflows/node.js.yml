@@ -1,0 +1,43 @@
+name: Node.js CI
+
+on: [deployment, push]
+
+jobs:
+  build-and-deploy:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install
+    - run: npm run build --if-present
+      env:
+        CI: true
+        API_GATEWAY_INVOKE_URL: ${{ secrets.API_GATEWAY_INVOKE_URL }}
+        API_GATEWAY_REGION: ${{ secrets.API_GATEWAY_REGION }}
+        API_GATEWAY_ACCESSKEY: ${{ secrets.API_GATEWAY_ACCESSKEY }}
+        API_GATEWAY_SECRETKEY: ${{ secrets.API_GATEWAY_SECRETKEY }}
+        GOOGLE_CALENDAR_SECRETKEY: ${{ secrets.GOOGLE_CALENDAR_SECRETKEY }}
+    - run: bash ./bin/commit.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_EMAIL: thura.ucsy@gmail.com
+        GITHUB_USERNAME: Thura Aung
+        GITHUB_REFERENCE: github.com/thuraucsy/yen_zay.git
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages # The branch the action should deploy to.
+        FOLDER: build # The folder the action should deploy.
+        CLEAN: false # Automatically remove deleted files from the deploy branch
