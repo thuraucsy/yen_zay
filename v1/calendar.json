@@ -50,13 +50,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "အစ်နေ့",
-            "startDate": "2021-07-20",
-            "endDate": "2021-07-21",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "ဒီပါဝရီနေ့ (ဒီဝါလီ)",
             "startDate": "2021-11-04",
             "endDate": "2021-11-05",
@@ -550,6 +543,27 @@
             "summary": "National Day",
             "startDate": "2022-11-18",
             "endDate": "2022-11-19",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Public Holiday",
+            "startDate": "2021-07-20",
+            "endDate": "2021-07-21",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "အစ်နေ့",
+            "startDate": "2021-07-21",
+            "endDate": "2021-07-22",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Public Holiday",
+            "startDate": "2021-07-22",
+            "endDate": "2021-07-23",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
