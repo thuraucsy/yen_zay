@@ -1,0 +1,25 @@
+{
+  "name": "exchange_rate_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanintharyi/exchange_rate_api.git"
+  },
+  "author": "Thura Aung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanintharyi/exchange_rate_api/issues"
+  },
+  "homepage": "https://github.com/tanintharyi/exchange_rate_api#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.8.4",
+    "aws-api-gateway-client": "^0.3.3",
+    "axios": ">=0.21.2"
+  }
+}

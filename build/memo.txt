@@ -1,0 +1,3 @@
+- index.js က request လုပ်ထားတဲ့ json ရလဒ်တွေအားလုံးကို ဒီ build folder အောက်မှာ file အသီးသီးနဲ့ သိမ်းပေးပါမယ်
+- ဥပမာ - today.json
+- build success ဖြစ်ရင်တော့ .travis.yml setting အရ gh-pages ဆိကူးပေးပါလိမ့်မယ်

@@ -1,0 +1,283 @@
+{
+    "Items": {
+        "10": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.6262614285714,
+            "MMKRatePerYen": 13.53162099999999,
+            "DayTime": "10 00:00",
+            "USDRatePerDollarTotal": 3853.5353199999995,
+            "MMKRatePerYenTotal": 378.88538799999975,
+            "Count": 28
+        },
+        "11": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 138.05823563888882,
+            "MMKRatePerYen": 13.527006000000013,
+            "DayTime": "11 00:00",
+            "USDRatePerDollarTotal": 4970.0964829999975,
+            "MMKRatePerYenTotal": 486.97221600000046,
+            "Count": 36
+        },
+        "12": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 138.80489210256403,
+            "MMKRatePerYen": 13.440603999999995,
+            "DayTime": "12 00:00",
+            "USDRatePerDollarTotal": 5413.3907919999965,
+            "MMKRatePerYenTotal": 524.1835559999998,
+            "Count": 39
+        },
+        "13": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 138.56926632258072,
+            "MMKRatePerYen": 13.437672387096777,
+            "DayTime": "13 00:00",
+            "USDRatePerDollarTotal": 4295.647256000002,
+            "MMKRatePerYenTotal": 416.5678440000001,
+            "Count": 31
+        },
+        "14": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 139.21497172500003,
+            "MMKRatePerYen": 13.421138924999994,
+            "DayTime": "14 00:00",
+            "USDRatePerDollarTotal": 5568.598869000001,
+            "MMKRatePerYenTotal": 536.8455569999998,
+            "Count": 40
+        },
+        "15": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 140.40695568421052,
+            "MMKRatePerYen": 13.304714842105268,
+            "DayTime": "15 00:00",
+            "USDRatePerDollarTotal": 5335.464316,
+            "MMKRatePerYenTotal": 505.57916400000016,
+            "Count": 38
+        },
+        "16": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 140.26075965517236,
+            "MMKRatePerYen": 13.278900655172421,
+            "DayTime": "16 00:00",
+            "USDRatePerDollarTotal": 4067.5620299999982,
+            "MMKRatePerYenTotal": 385.08811900000023,
+            "Count": 29
+        },
+        "17": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 140.11430671999995,
+            "MMKRatePerYen": 13.292183000000001,
+            "DayTime": "17 00:00",
+            "USDRatePerDollarTotal": 3502.8576679999987,
+            "MMKRatePerYenTotal": 332.30457500000006,
+            "Count": 25
+        },
+        "18": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 140.0195153666667,
+            "MMKRatePerYen": 13.298123033333326,
+            "DayTime": "18 00:00",
+            "USDRatePerDollarTotal": 4200.585461000001,
+            "MMKRatePerYenTotal": 398.9436909999998,
+            "Count": 30
+        },
+        "19": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 139.6933052051281,
+            "MMKRatePerYen": 13.301561999999993,
+            "DayTime": "19 00:00",
+            "USDRatePerDollarTotal": 5448.038902999996,
+            "MMKRatePerYenTotal": 518.7609179999997,
+            "Count": 39
+        },
+        "20": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 139.66513715625,
+            "MMKRatePerYen": 13.313336062500001,
+            "DayTime": "20 00:00",
+            "USDRatePerDollarTotal": 4469.284389,
+            "MMKRatePerYenTotal": 426.02675400000004,
+            "Count": 32
+        },
+        "21": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 139.79843357575754,
+            "MMKRatePerYen": 13.31656963636363,
+            "DayTime": "21 00:00",
+            "USDRatePerDollarTotal": 4613.348307999999,
+            "MMKRatePerYenTotal": 439.4467979999998,
+            "Count": 33
+        },
+        "22": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 139.25482943243247,
+            "MMKRatePerYen": 13.370313810810822,
+            "DayTime": "22 00:00",
+            "USDRatePerDollarTotal": 5152.428689000001,
+            "MMKRatePerYenTotal": 494.7016110000004,
+            "Count": 37
+        },
+        "23": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 138.00471765517239,
+            "MMKRatePerYen": 13.473598758620694,
+            "DayTime": "23 00:00",
+            "USDRatePerDollarTotal": 4002.136811999999,
+            "MMKRatePerYenTotal": 390.73436400000014,
+            "Count": 29
+        },
+        "24": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.60692358620685,
+            "MMKRatePerYen": 13.524420000000003,
+            "DayTime": "24 00:00",
+            "USDRatePerDollarTotal": 3990.6007839999984,
+            "MMKRatePerYenTotal": 392.2081800000001,
+            "Count": 29
+        },
+        "25": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.64982025641024,
+            "MMKRatePerYen": 13.524420000000005,
+            "DayTime": "25 00:00",
+            "USDRatePerDollarTotal": 5368.342989999999,
+            "MMKRatePerYenTotal": 527.4523800000002,
+            "Count": 39
+        },
+        "26": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 138.03658013888884,
+            "MMKRatePerYen": 13.510053305555559,
+            "DayTime": "26 00:00",
+            "USDRatePerDollarTotal": 4969.316884999998,
+            "MMKRatePerYenTotal": 486.3619190000001,
+            "Count": 36
+        },
+        "27": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 138.39106489743594,
+            "MMKRatePerYen": 13.469848999999995,
+            "DayTime": "27 00:00",
+            "USDRatePerDollarTotal": 5397.251531000002,
+            "MMKRatePerYenTotal": 525.3241109999998,
+            "Count": 39
+        },
+        "28": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.64670049999995,
+            "MMKRatePerYen": 13.481648176470578,
+            "DayTime": "28 00:00",
+            "USDRatePerDollarTotal": 4679.987816999998,
+            "MMKRatePerYenTotal": 458.37603799999965,
+            "Count": 34
+        },
+        "29": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 135.65929846875005,
+            "MMKRatePerYen": 13.66123640625,
+            "DayTime": "29 00:00",
+            "USDRatePerDollarTotal": 4341.097551000002,
+            "MMKRatePerYenTotal": 437.159565,
+            "Count": 32
+        },
+        "30": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 134.8195292222223,
+            "MMKRatePerYen": 13.779480925925926,
+            "DayTime": "30 00:00",
+            "USDRatePerDollarTotal": 3640.1272890000014,
+            "MMKRatePerYenTotal": 372.045985,
+            "Count": 27
+        },
+        "31": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 134.71481575000004,
+            "MMKRatePerYen": 13.812185,
+            "DayTime": "31 00:00",
+            "USDRatePerDollarTotal": 4310.874104000001,
+            "MMKRatePerYenTotal": 441.98992,
+            "Count": 32
+        },
+        "01": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.23777250000006,
+            "MMKRatePerYen": 13.55501415789474,
+            "DayTime": "01 00:00",
+            "USDRatePerDollarTotal": 5215.035355000003,
+            "MMKRatePerYenTotal": 515.0905380000002,
+            "Count": 38
+        },
+        "02": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 136.71933051851855,
+            "MMKRatePerYen": 13.611094037037047,
+            "DayTime": "02 00:00",
+            "USDRatePerDollarTotal": 3691.421924000001,
+            "MMKRatePerYenTotal": 367.49953900000025,
+            "Count": 27
+        },
+        "03": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 136.72350571428575,
+            "MMKRatePerYen": 13.630078000000008,
+            "DayTime": "03 00:00",
+            "USDRatePerDollarTotal": 3828.258160000001,
+            "MMKRatePerYenTotal": 381.6421840000002,
+            "Count": 28
+        },
+        "04": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 136.68830648571424,
+            "MMKRatePerYen": 13.630078000000012,
+            "DayTime": "04 00:00",
+            "USDRatePerDollarTotal": 4784.090726999998,
+            "MMKRatePerYenTotal": 477.0527300000004,
+            "Count": 35
+        },
+        "05": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.34815615151516,
+            "MMKRatePerYen": 13.594055999999995,
+            "DayTime": "05 00:00",
+            "USDRatePerDollarTotal": 4532.489153,
+            "MMKRatePerYenTotal": 448.6038479999998,
+            "Count": 33
+        },
+        "06": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.220672875,
+            "MMKRatePerYen": 13.572168687499996,
+            "DayTime": "06 00:00",
+            "USDRatePerDollarTotal": 4391.061532,
+            "MMKRatePerYenTotal": 434.3093979999999,
+            "Count": 32
+        },
+        "07": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.21929365714288,
+            "MMKRatePerYen": 13.558820228571426,
+            "DayTime": "07 00:00",
+            "USDRatePerDollarTotal": 4802.675278000001,
+            "MMKRatePerYenTotal": 474.5587079999999,
+            "Count": 35
+        },
+        "08": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.3622278181819,
+            "MMKRatePerYen": 13.54612957575757,
+            "DayTime": "08 00:00",
+            "USDRatePerDollarTotal": 4532.953518000003,
+            "MMKRatePerYenTotal": 447.0222759999998,
+            "Count": 33
+        },
+        "09": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 137.54395217241375,
+            "MMKRatePerYen": 13.535624620689646,
+            "DayTime": "09 00:00",
+            "USDRatePerDollarTotal": 3988.774612999999,
+            "MMKRatePerYenTotal": 392.5331139999997,
+            "Count": 29
+        }
+    }
+}
