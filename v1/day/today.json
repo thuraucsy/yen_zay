@@ -141,8 +141,16 @@
             "DayTime": "03 14:10",
             "CashPickupMMKRatePerYen": "17.470000",
             "MMKRatePerYen": "17.465788"
+        },
+        {
+            "YearMonth": "2021/10",
+            "USDRatePerDollar": "112.334306",
+            "CashPickupDateTime": "2021/10/03 13:00",
+            "DayTime": "03 14:20",
+            "CashPickupMMKRatePerYen": "17.470000",
+            "MMKRatePerYen": "17.465788"
         }
     ],
-    "Count": 18,
-    "ScannedCount": 18
+    "Count": 19,
+    "ScannedCount": 19
 }
