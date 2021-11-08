@@ -62,6 +62,15 @@
             "USDRatePerDollarTotal": 3326.0592240000005,
             "MMKRatePerYenTotal": 457.77755700000023,
             "Count": 29
+        },
+        "08": {
+            "YearMonth": "2021/11",
+            "USDRatePerDollar": 114.7598446,
+            "MMKRatePerYen": 15.794210000000016,
+            "DayTime": "08 00:00",
+            "USDRatePerDollarTotal": 4590.393784,
+            "MMKRatePerYenTotal": 631.7684000000006,
+            "Count": 40
         }
     }
 }
