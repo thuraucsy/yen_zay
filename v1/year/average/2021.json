@@ -2777,6 +2777,15 @@
     },
     "202111": {
         "Items": {
+            "10": {
+                "YearMonth": "2021/11",
+                "USDRatePerDollar": 114.14670908108106,
+                "MMKRatePerYen": 15.856274243243245,
+                "DayTime": "10 00:00",
+                "USDRatePerDollarTotal": 4223.428235999999,
+                "MMKRatePerYenTotal": 586.6821470000001,
+                "Count": 37
+            },
             "01": {
                 "YearMonth": "2021/11",
                 "USDRatePerDollar": 115.38484262162169,
