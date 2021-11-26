@@ -263,8 +263,30 @@
             "DayTime": "26 17:50",
             "CashPickupMMKRatePerYen": "15.495400",
             "MMKRatePerYen": "15.497605"
+        },
+        {
+            "YearMonth": "2021/11",
+            "USDRatePerDollar": "116.036203",
+            "CashPickupDateTime": "2021/11/26 18:00",
+            "DayTime": "26 18:20",
+            "CashPickupMMKRatePerYen": "15.495400",
+            "MMKRatePerYen": "15.497605"
+        },
+        {
+            "YearMonth": "2021/11",
+            "USDRatePerDollar": "116.03",
+            "CashPickupDateTime": "2021/11/26 18:00",
+            "DayTime": "26 18:40",
+            "CashPickupMMKRatePerYen": "15.495400",
+            "MMKRatePerYen": "15.497605"
+        },
+        {
+            "YearMonth": "2021/11",
+            "USDRatePerDollar": "116.036203",
+            "MMKRatePerYen": "15.497605",
+            "DayTime": "26 19:20"
         }
     ],
-    "Count": 33,
-    "ScannedCount": 33
+    "Count": 36,
+    "ScannedCount": 36
 }
