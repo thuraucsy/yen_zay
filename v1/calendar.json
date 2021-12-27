@@ -155,13 +155,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "National Day",
-            "startDate": "2022-11-18",
-            "endDate": "2022-11-19",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "အလုပ်သမားနေ့",
             "startDate": "2020-05-01",
             "endDate": "2020-05-02",
@@ -379,34 +372,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "ဝါဆိုလပြည့်နေ့ (ဝါဝင်)",
-            "startDate": "2022-07-13",
-            "endDate": "2022-07-14",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "သီတင်းကျွတ်လပြည့်နေ့ (ဝါထွက်)",
-            "startDate": "2022-10-09",
-            "endDate": "2022-10-10",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "သီတင်းကျွတ်လပြည့်နေ့ (ဝါထွက်)",
-            "startDate": "2022-10-11",
-            "endDate": "2022-10-12",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "တန်ဆောင်မုန်းလပြည့်နေ့",
-            "startDate": "2022-11-09",
-            "endDate": "2022-11-10",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "ခရစ်စမတ်နေ့",
             "startDate": "2022-12-25",
             "endDate": "2022-12-26",
@@ -578,13 +543,6 @@
             "summary": "အစ်နေ့",
             "startDate": "2022-07-10",
             "endDate": "2022-07-11",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "တန်ဆောင်မုန်းလပြည့်နေ့",
-            "startDate": "2022-11-08",
-            "endDate": "2022-11-09",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
@@ -820,13 +778,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "သီတင်းကျွတ်လပြည့်နေ့ (ဝါထွက်)",
-            "startDate": "2022-10-10",
-            "endDate": "2022-10-11",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Public Holiday",
             "startDate": "2021-09-01",
             "endDate": "2021-09-02",
@@ -907,6 +858,118 @@
             "summary": "Public Holiday",
             "startDate": "2021-09-12",
             "endDate": "2021-09-13",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2020-04-17",
+            "endDate": "2020-04-18",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ကရင်နှစ်သစ်ကူးနေ့",
+            "startDate": "2022-01-02",
+            "endDate": "2022-01-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2022-04-09",
+            "endDate": "2022-04-10",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2022-04-10",
+            "endDate": "2022-04-11",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2022-04-11",
+            "endDate": "2022-04-12",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2022-04-12",
+            "endDate": "2022-04-13",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2022-04-17",
+            "endDate": "2022-04-18",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ကဆုန်လပြည့်နေ့",
+            "startDate": "2022-05-14",
+            "endDate": "2022-05-15",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ဝါဆိုလပြည့်နေ့ (ဝါဝင်)",
+            "startDate": "2022-07-12",
+            "endDate": "2022-07-13",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သီတင်းကျွတ်လပြည့်နေ့ (ဝါထွက်)",
+            "startDate": "2022-10-08",
+            "endDate": "2022-10-09",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သီတင်းကျွတ်လပြည့်နေ့ (ဝါထွက်)",
+            "startDate": "2022-10-09",
+            "endDate": "2022-10-10",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သီတင်းကျွတ်လပြည့်နေ့ (ဝါထွက်)",
+            "startDate": "2022-10-10",
+            "endDate": "2022-10-11",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "တန်ဆောင်မုန်းလပြည့်နေ့",
+            "startDate": "2022-11-06",
+            "endDate": "2022-11-07",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "တန်ဆောင်မုန်းလပြည့်နေ့",
+            "startDate": "2022-11-07",
+            "endDate": "2022-11-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "National Day",
+            "startDate": "2022-11-17",
+            "endDate": "2022-11-18",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ကရင်နှစ်သစ်ကူးနေ့",
+            "startDate": "2022-12-22",
+            "endDate": "2022-12-23",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
