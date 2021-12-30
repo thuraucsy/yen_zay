@@ -30,8 +30,15 @@
             "USDRatePerDollar": "116.319646",
             "MMKRatePerYen": "15.435748",
             "DayTime": "31 03:20"
+        },
+        {
+            "errorMessage": "2021-12-30T19:21:55.125Z af316d59-a558-4164-9076-0c03cd6f1a99 Task timed out after 45.01 seconds",
+            "YearMonth": "2021/12",
+            "USDRatePerDollar": "116.319646",
+            "MMKRatePerYen": "15.435748",
+            "DayTime": "31 04:20"
         }
     ],
-    "Count": 4,
-    "ScannedCount": 4
+    "Count": 5,
+    "ScannedCount": 5
 }
