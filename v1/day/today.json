@@ -127,8 +127,62 @@
             "DayTime": "12 11:20",
             "CashPickupMMKRatePerYen": "15.411600",
             "MMKRatePerYen": "15.360432"
+        },
+        {
+            "YearMonth": "2022/01",
+            "USDRatePerDollar": "116.61",
+            "MMKRatePerYen": "15.360432",
+            "DayTime": "12 11:40"
+        },
+        {
+            "YearMonth": "2022/01",
+            "USDRatePerDollar": "116.61",
+            "CashPickupDateTime": "2022/01/12 11:00",
+            "DayTime": "12 12:00",
+            "CashPickupMMKRatePerYen": "15.411600",
+            "MMKRatePerYen": "15.360432"
+        },
+        {
+            "YearMonth": "2022/01",
+            "USDRatePerDollar": "116.618075",
+            "CashPickupDateTime": "2022/01/12 12:00",
+            "DayTime": "12 12:20",
+            "CashPickupMMKRatePerYen": "15.411600",
+            "MMKRatePerYen": "15.360432"
+        },
+        {
+            "YearMonth": "2022/01",
+            "USDRatePerDollar": "116.618075",
+            "CashPickupDateTime": "2022/01/12 12:00",
+            "DayTime": "12 13:20",
+            "CashPickupMMKRatePerYen": "15.411600",
+            "MMKRatePerYen": "15.360432"
+        },
+        {
+            "YearMonth": "2022/01",
+            "USDRatePerDollar": "116.61",
+            "CashPickupDateTime": "2022/01/12 13:00",
+            "DayTime": "12 13:25",
+            "CashPickupMMKRatePerYen": "15.411600",
+            "MMKRatePerYen": "15.360432"
+        },
+        {
+            "YearMonth": "2022/01",
+            "USDRatePerDollar": "116.61",
+            "CashPickupDateTime": "2022/01/12 13:00",
+            "DayTime": "12 14:10",
+            "CashPickupMMKRatePerYen": "15.411600",
+            "MMKRatePerYen": "15.360432"
+        },
+        {
+            "YearMonth": "2022/01",
+            "USDRatePerDollar": "116.686114",
+            "CashPickupDateTime": "2022/01/12 13:00",
+            "DayTime": "12 14:20",
+            "CashPickupMMKRatePerYen": "15.411600",
+            "MMKRatePerYen": "15.360432"
         }
     ],
-    "Count": 16,
-    "ScannedCount": 16
+    "Count": 23,
+    "ScannedCount": 23
 }
