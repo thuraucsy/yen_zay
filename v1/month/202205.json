@@ -2423,8 +2423,287 @@
             "DayTime": "10 23:20",
             "CashPickupMMKRatePerYen": "14.160000",
             "MMKRatePerYen": "14.156051"
+        },
+        {
+            "errorMessage": "2022-05-10T15:21:55.214Z 3af9bdf2-84c3-4bb2-af34-ef979683f1dc Task timed out after 45.01 seconds",
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.700250",
+            "MMKRatePerYen": "14.156051",
+            "DayTime": "11 00:20"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.700250",
+            "CashPickupDateTime": "2022/05/11 00:00",
+            "DayTime": "11 01:20",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.700250",
+            "CashPickupDateTime": "2022/05/11 01:00",
+            "DayTime": "11 02:20",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.700250",
+            "CashPickupDateTime": "2022/05/11 03:00",
+            "DayTime": "11 03:20",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.700250",
+            "MMKRatePerYen": "14.156051",
+            "DayTime": "11 04:20"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.700250",
+            "CashPickupDateTime": "2022/05/11 04:00",
+            "DayTime": "11 05:20",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.700250",
+            "CashPickupDateTime": "2022/05/11 05:00",
+            "DayTime": "11 06:20",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.891321",
+            "CashPickupDateTime": "2022/05/11 06:00",
+            "DayTime": "11 07:20",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.891321",
+            "CashPickupDateTime": "2022/05/11 07:00",
+            "DayTime": "11 08:20",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.891321",
+            "MMKRatePerYen": "14.156051",
+            "DayTime": "11 09:20"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.89",
+            "CashPickupDateTime": "2022/05/11 09:00",
+            "DayTime": "11 10:05",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.89",
+            "CashPickupDateTime": "2022/05/11 09:00",
+            "DayTime": "11 10:10",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.891321",
+            "CashPickupDateTime": "2022/05/11 09:00",
+            "DayTime": "11 10:20",
+            "CashPickupMMKRatePerYen": "14.160000",
+            "MMKRatePerYen": "14.156051"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.89",
+            "MMKRatePerYen": "14.123463",
+            "DayTime": "11 10:40"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.89",
+            "CashPickupDateTime": "2022/05/11 10:00",
+            "DayTime": "11 10:55",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.891321",
+            "CashPickupDateTime": "2022/05/11 10:00",
+            "DayTime": "11 11:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.89",
+            "CashPickupDateTime": "2022/05/11 10:00",
+            "DayTime": "11 11:25",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.89",
+            "CashPickupDateTime": "2022/05/11 11:00",
+            "DayTime": "11 12:05",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.891321",
+            "CashPickupDateTime": "2022/05/11 11:00",
+            "DayTime": "11 12:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.89",
+            "CashPickupDateTime": "2022/05/11 12:00",
+            "DayTime": "11 13:05",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 12:00",
+            "DayTime": "11 13:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.83",
+            "MMKRatePerYen": "14.123463",
+            "DayTime": "11 13:40"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.83",
+            "CashPickupDateTime": "2022/05/11 13:00",
+            "DayTime": "11 14:05",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 13:00",
+            "DayTime": "11 14:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.83",
+            "CashPickupDateTime": "2022/05/11 14:00",
+            "DayTime": "11 14:45",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 14:00",
+            "DayTime": "11 15:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 15:00",
+            "DayTime": "11 16:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.83",
+            "CashPickupDateTime": "2022/05/11 16:00",
+            "DayTime": "11 16:50",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 16:00",
+            "DayTime": "11 17:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 17:00",
+            "DayTime": "11 18:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.83",
+            "CashPickupDateTime": "2022/05/11 18:00",
+            "DayTime": "11 19:00",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 18:00",
+            "DayTime": "11 19:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 19:00",
+            "DayTime": "11 20:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 20:00",
+            "DayTime": "11 21:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 21:00",
+            "DayTime": "11 22:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
+        },
+        {
+            "YearMonth": "2022/05",
+            "USDRatePerDollar": "131.839156",
+            "CashPickupDateTime": "2022/05/11 22:00",
+            "DayTime": "11 23:20",
+            "CashPickupMMKRatePerYen": "14.130000",
+            "MMKRatePerYen": "14.123463"
         }
     ],
-    "Count": 309,
-    "ScannedCount": 309
+    "Count": 345,
+    "ScannedCount": 345
 }
