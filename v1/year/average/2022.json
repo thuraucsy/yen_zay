@@ -1377,5 +1377,18 @@
                 "Count": 32
             }
         }
+    },
+    "202206": {
+        "Items": {
+            "01": {
+                "YearMonth": "2022/06",
+                "USDRatePerDollar": 130.2175581470589,
+                "MMKRatePerYen": 14.344046470588244,
+                "DayTime": "01 00:00",
+                "USDRatePerDollarTotal": 4427.396977000002,
+                "MMKRatePerYenTotal": 487.6975800000003,
+                "Count": 34
+            }
+        }
     }
 }
