@@ -1177,13 +1177,6 @@
             "displayName": "Holidays in Japan"
         },
         {
-            "summary": "New Year's Day observed",
-            "startDate": "2023-01-02",
-            "endDate": "2023-01-03",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
             "summary": "Greenery Day",
             "startDate": "2023-05-04",
             "endDate": "2023-05-05",
@@ -1299,6 +1292,13 @@
             "summary": "Labor Thanksgiving Day",
             "startDate": "2023-11-23",
             "endDate": "2023-11-24",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Day off for New Year's Day",
+            "startDate": "2023-01-02",
+            "endDate": "2023-01-03",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
         }
