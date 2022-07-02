@@ -8,6 +8,15 @@
             "USDRatePerDollarTotal": 5215.035355000003,
             "MMKRatePerYenTotal": 515.0905380000002,
             "Count": 38
+        },
+        "02": {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": 136.71933051851855,
+            "MMKRatePerYen": 13.611094037037047,
+            "DayTime": "02 00:00",
+            "USDRatePerDollarTotal": 3691.421924000001,
+            "MMKRatePerYenTotal": 367.49953900000025,
+            "Count": 27
         }
     }
 }
