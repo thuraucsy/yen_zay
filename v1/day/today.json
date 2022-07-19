@@ -259,8 +259,16 @@
             "USDRatePerDollar": "139.625802",
             "MMKRatePerYen": "13.301562",
             "DayTime": "19 19:20"
+        },
+        {
+            "YearMonth": "2022/07",
+            "USDRatePerDollar": "139.625802",
+            "CashPickupDateTime": "2022/07/19 19:00",
+            "DayTime": "19 20:20",
+            "CashPickupMMKRatePerYen": "13.310000",
+            "MMKRatePerYen": "13.301562"
         }
     ],
-    "Count": 34,
-    "ScannedCount": 34
+    "Count": 35,
+    "ScannedCount": 35
 }
