@@ -297,8 +297,14 @@
             "USDRatePerDollar": "146.391450",
             "MMKRatePerYen": "20.700000",
             "DayTime": "22 20:20"
+        },
+        {
+            "YearMonth": "2022/09",
+            "USDRatePerDollar": "146.391450",
+            "MMKRatePerYen": "20.700000",
+            "DayTime": "22 21:20"
         }
     ],
-    "Count": 39,
-    "ScannedCount": 39
+    "Count": 40,
+    "ScannedCount": 40
 }
