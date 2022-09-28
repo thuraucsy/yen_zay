@@ -191,8 +191,14 @@
             "DayTime": "28 16:05",
             "CashPickupMMKRatePerYen": "20.715200",
             "MMKRatePerYen": "20.720000"
+        },
+        {
+            "YearMonth": "2022/09",
+            "USDRatePerDollar": "146.26",
+            "MMKRatePerYen": "20.720000",
+            "DayTime": "28 16:10"
         }
     ],
-    "Count": 26,
-    "ScannedCount": 26
+    "Count": 27,
+    "ScannedCount": 27
 }
