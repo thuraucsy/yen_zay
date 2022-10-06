@@ -792,13 +792,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "နှစ်သစ်ကူးနေ့",
-            "startDate": "2023-01-01",
-            "endDate": "2023-01-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "လွတ်လပ်ရေးနေ့",
             "startDate": "2023-01-04",
             "endDate": "2023-01-05",
@@ -816,13 +809,6 @@
             "summary": "တောင်သူလယ်သမားနေ့",
             "startDate": "2023-03-02",
             "endDate": "2023-03-03",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "တပေါင်းလပြည့်နေ့",
-            "startDate": "2023-03-06",
-            "endDate": "2023-03-07",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
@@ -932,13 +918,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "National Day",
-            "startDate": "2023-12-09",
-            "endDate": "2023-12-10",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "ခရစ်စမတ်နေ့",
             "startDate": "2023-12-25",
             "endDate": "2023-12-26",
@@ -947,8 +926,64 @@
         },
         {
             "summary": "နှစ်သစ်ကူးနေ့",
-            "startDate": "2023-12-31",
-            "endDate": "2024-01-01",
+            "startDate": "2023-01-01",
+            "endDate": "2023-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "တပေါင်းလပြည့်နေ့",
+            "startDate": "2023-03-05",
+            "endDate": "2023-03-06",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2023-04-09",
+            "endDate": "2023-04-10",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2023-04-10",
+            "endDate": "2023-04-11",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2023-04-11",
+            "endDate": "2023-04-12",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2023-04-12",
+            "endDate": "2023-04-13",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2023-04-17",
+            "endDate": "2023-04-18",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ကဆုန်လပြည့်နေ့",
+            "startDate": "2023-05-03",
+            "endDate": "2023-05-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "National Day",
+            "startDate": "2023-12-07",
+            "endDate": "2023-12-08",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
