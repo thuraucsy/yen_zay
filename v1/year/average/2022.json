@@ -2494,6 +2494,15 @@
     },
     "202210": {
         "Items": {
+            "10": {
+                "YearMonth": "2022/10",
+                "USDRatePerDollar": 147.055726030303,
+                "MMKRatePerYen": 18.5,
+                "DayTime": "10 00:00",
+                "USDRatePerDollarTotal": 4852.838958999999,
+                "MMKRatePerYenTotal": 610.5,
+                "Count": 33
+            },
             "01": {
                 "YearMonth": "2022/10",
                 "USDRatePerDollar": 146.37462811111115,
