@@ -27,12 +27,6 @@ jobs:
         API_GATEWAY_ACCESSKEY: ${{ secrets.API_GATEWAY_ACCESSKEY }}
         API_GATEWAY_SECRETKEY: ${{ secrets.API_GATEWAY_SECRETKEY }}
         GOOGLE_CALENDAR_SECRETKEY: ${{ secrets.GOOGLE_CALENDAR_SECRETKEY }}
-    - run: bash ./bin/commit.sh
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_EMAIL: thura.ucsy@gmail.com
-        GITHUB_USERNAME: Thura Aung
-        GITHUB_REFERENCE: github.com/thuraucsy/yen_zay.git
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@3.7.1
