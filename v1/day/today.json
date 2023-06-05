@@ -163,8 +163,16 @@
             "USDRatePerDollar": "141.643059",
             "MMKRatePerYen": "20.430140",
             "DayTime": "05 15:20"
+        },
+        {
+            "YearMonth": "2023/06",
+            "USDRatePerDollar": "141.64",
+            "CashPickupDateTime": "2023/06/05 15:00",
+            "DayTime": "05 15:55",
+            "CashPickupMMKRatePerYen": "20.488292",
+            "MMKRatePerYen": "20.430140"
         }
     ],
-    "Count": 22,
-    "ScannedCount": 22
+    "Count": 23,
+    "ScannedCount": 23
 }
