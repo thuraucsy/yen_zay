@@ -107,8 +107,15 @@
             "DayTime": "08 10:20",
             "CashPickupMMKRatePerYen": "20.530000",
             "MMKRatePerYen": "20.520050"
+        },
+        {
+            "errorMessage": "2023-06-08T01:28:55.120Z 5bfeea3d-21a6-4286-bd58-21f5efc80ec7 Task timed out after 45.05 seconds",
+            "YearMonth": "2023/06",
+            "USDRatePerDollar": "141.72",
+            "MMKRatePerYen": "20.452320",
+            "DayTime": "08 10:25"
         }
     ],
-    "Count": 14,
-    "ScannedCount": 14
+    "Count": 15,
+    "ScannedCount": 15
 }
