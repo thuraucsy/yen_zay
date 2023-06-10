@@ -1380,6 +1380,15 @@
     },
     "202306": {
         "Items": {
+            "10": {
+                "YearMonth": "2023/06",
+                "USDRatePerDollar": 140.90044385185192,
+                "MMKRatePerYen": 20.610334444444447,
+                "DayTime": "10 00:00",
+                "USDRatePerDollarTotal": 3804.3119840000018,
+                "MMKRatePerYenTotal": 556.4790300000001,
+                "Count": 27
+            },
             "01": {
                 "YearMonth": "2023/06",
                 "USDRatePerDollar": 141.10480817647053,
