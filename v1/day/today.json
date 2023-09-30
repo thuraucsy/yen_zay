@@ -78,8 +78,16 @@
             "DayTime": "30 09:20",
             "CashPickupMMKRatePerYen": "19.300000",
             "MMKRatePerYen": "19.287200"
+        },
+        {
+            "YearMonth": "2023/09",
+            "USDRatePerDollar": "151.08",
+            "CashPickupDateTime": "2023/09/30 09:00",
+            "DayTime": "30 10:20",
+            "CashPickupMMKRatePerYen": "19.300000",
+            "MMKRatePerYen": "19.287200"
         }
     ],
-    "Count": 10,
-    "ScannedCount": 10
+    "Count": 11,
+    "ScannedCount": 11
 }
