@@ -4110,8 +4110,236 @@
             "DayTime": "17 23:20",
             "CashPickupMMKRatePerYen": "19.460000",
             "MMKRatePerYen": "19.456000"
+        },
+        {
+            "errorMessage": "2023-10-17T15:21:54.904Z 0ea2f685-3234-4724-a62c-e89a7c30967b Task timed out after 45.05 seconds",
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.194436",
+            "MMKRatePerYen": "19.456000",
+            "DayTime": "18 00:20"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.194436",
+            "MMKRatePerYen": "19.456000",
+            "DayTime": "18 01:20"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.194436",
+            "CashPickupDateTime": "2023/10/18 01:00",
+            "DayTime": "18 02:20",
+            "CashPickupMMKRatePerYen": "19.460000",
+            "MMKRatePerYen": "19.456000"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.194436",
+            "CashPickupDateTime": "2023/10/18 03:00",
+            "MMKRatePerYen": "19.456000",
+            "DayTime": "18 03:20"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.194436",
+            "CashPickupDateTime": "2023/10/18 03:00",
+            "DayTime": "18 04:20",
+            "CashPickupMMKRatePerYen": "19.460000",
+            "MMKRatePerYen": "19.456000"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.194436",
+            "CashPickupDateTime": "2023/10/18 04:00",
+            "DayTime": "18 05:20",
+            "CashPickupMMKRatePerYen": "19.460000",
+            "MMKRatePerYen": "19.456000"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.194436",
+            "CashPickupDateTime": "2023/10/18 05:00",
+            "DayTime": "18 06:20",
+            "CashPickupMMKRatePerYen": "19.460000",
+            "MMKRatePerYen": "19.456000"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.194436",
+            "CashPickupDateTime": "2023/10/18 06:00",
+            "DayTime": "18 07:20",
+            "CashPickupMMKRatePerYen": "19.460000",
+            "MMKRatePerYen": "19.456000"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.469251",
+            "MMKRatePerYen": "19.456000",
+            "DayTime": "18 08:20"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.46",
+            "CashPickupDateTime": "2023/10/18 08:00",
+            "DayTime": "18 09:20",
+            "CashPickupMMKRatePerYen": "19.460000",
+            "MMKRatePerYen": "19.456000"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.46",
+            "MMKRatePerYen": "19.456000",
+            "DayTime": "18 10:06"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.469251",
+            "MMKRatePerYen": "19.456000",
+            "DayTime": "18 10:20"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.46",
+            "MMKRatePerYen": "19.439100",
+            "DayTime": "18 10:40"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.46",
+            "CashPickupDateTime": "2023/10/18 10:00",
+            "DayTime": "18 10:55",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.46",
+            "MMKRatePerYen": "19.439100",
+            "DayTime": "18 11:20"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.46",
+            "CashPickupDateTime": "2023/10/18 11:00",
+            "DayTime": "18 11:31",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.469251",
+            "CashPickupDateTime": "2023/10/18 11:00",
+            "DayTime": "18 12:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 12:00",
+            "DayTime": "18 13:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.35",
+            "CashPickupDateTime": "2023/10/18 13:00",
+            "DayTime": "18 14:06",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 13:00",
+            "DayTime": "18 14:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "MMKRatePerYen": "19.439100",
+            "DayTime": "18 15:20"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.35",
+            "CashPickupDateTime": "2023/10/18 15:00",
+            "DayTime": "18 15:55",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 15:00",
+            "DayTime": "18 16:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 16:00",
+            "DayTime": "18 17:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 17:00",
+            "DayTime": "18 18:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.35",
+            "MMKRatePerYen": "19.439100",
+            "DayTime": "18 18:21"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 18:00",
+            "DayTime": "18 19:24",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 19:00",
+            "DayTime": "18 20:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 20:00",
+            "DayTime": "18 21:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "MMKRatePerYen": "19.439100",
+            "DayTime": "18 22:20"
+        },
+        {
+            "YearMonth": "2023/10",
+            "USDRatePerDollar": "151.354623",
+            "CashPickupDateTime": "2023/10/18 22:00",
+            "DayTime": "18 23:20",
+            "CashPickupMMKRatePerYen": "19.440000",
+            "MMKRatePerYen": "19.439100"
         }
     ],
-    "Count": 546,
-    "ScannedCount": 546
+    "Count": 577,
+    "ScannedCount": 577
 }
