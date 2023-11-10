@@ -20,6 +20,6 @@
   "dependencies": {
     "@babel/runtime": "^7.8.4",
     "aws-api-gateway-client": "^0.3.3",
-    "axios": ">=0.21.2"
+    "axios": ">=1.6.0"
   }
 }
