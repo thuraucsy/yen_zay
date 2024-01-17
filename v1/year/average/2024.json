@@ -1,6 +1,78 @@
 {
     "202401": {
         "Items": {
+            "10": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 145.95739958823523,
+                "MMKRatePerYen": 23.395349999999986,
+                "DayTime": "10 00:00",
+                "USDRatePerDollarTotal": 4962.551585999998,
+                "MMKRatePerYenTotal": 795.4418999999996,
+                "Count": 34
+            },
+            "11": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 146.9445628484848,
+                "MMKRatePerYen": 23.332089393939395,
+                "DayTime": "11 00:00",
+                "USDRatePerDollarTotal": 4849.170573999998,
+                "MMKRatePerYenTotal": 769.9589500000001,
+                "Count": 33
+            },
+            "12": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 146.84974194117646,
+                "MMKRatePerYen": 23.27354470588235,
+                "DayTime": "12 00:00",
+                "USDRatePerDollarTotal": 4992.891226,
+                "MMKRatePerYenTotal": 791.3005199999999,
+                "Count": 34
+            },
+            "13": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 146.59720064285713,
+                "MMKRatePerYen": 23.2636,
+                "DayTime": "13 00:00",
+                "USDRatePerDollarTotal": 4104.721618,
+                "MMKRatePerYenTotal": 651.3808,
+                "Count": 28
+            },
+            "14": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 146.56265285714287,
+                "MMKRatePerYen": 23.2636,
+                "DayTime": "14 00:00",
+                "USDRatePerDollarTotal": 4103.75428,
+                "MMKRatePerYenTotal": 651.3808,
+                "Count": 28
+            },
+            "15": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 146.64494470588232,
+                "MMKRatePerYen": 23.2636,
+                "DayTime": "15 00:00",
+                "USDRatePerDollarTotal": 4985.928119999999,
+                "MMKRatePerYenTotal": 790.9624,
+                "Count": 34
+            },
+            "16": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 147.39316075757569,
+                "MMKRatePerYen": 23.244317878787875,
+                "DayTime": "16 00:00",
+                "USDRatePerDollarTotal": 4863.974304999998,
+                "MMKRatePerYenTotal": 767.0624899999999,
+                "Count": 33
+            },
+            "17": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 148.6191514871794,
+                "MMKRatePerYen": 23.08850384615385,
+                "DayTime": "17 00:00",
+                "USDRatePerDollarTotal": 5796.146907999997,
+                "MMKRatePerYenTotal": 900.4516500000001,
+                "Count": 39
+            },
             "01": {
                 "YearMonth": "2024/01",
                 "USDRatePerDollar": 142.65275342857137,
@@ -72,6 +144,15 @@
                 "USDRatePerDollarTotal": 5702.651276000004,
                 "MMKRatePerYenTotal": 906.4809000000007,
                 "Count": 39
+            },
+            "09": {
+                "YearMonth": "2024/01",
+                "USDRatePerDollar": 145.6749566388889,
+                "MMKRatePerYen": 23.243100000000016,
+                "DayTime": "09 00:00",
+                "USDRatePerDollarTotal": 5244.298439,
+                "MMKRatePerYenTotal": 836.7516000000006,
+                "Count": 36
             }
         }
     }
