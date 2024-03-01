@@ -546,5 +546,18 @@
                 "Count": 31
             }
         }
+    },
+    "202403": {
+        "Items": {
+            "01": {
+                "YearMonth": "2024/03",
+                "USDRatePerDollar": 151.78334337500007,
+                "MMKRatePerYen": 22.889409275000016,
+                "DayTime": "01 00:00",
+                "USDRatePerDollarTotal": 6071.333735000003,
+                "MMKRatePerYenTotal": 915.5763710000007,
+                "Count": 40
+            }
+        }
     }
 }
