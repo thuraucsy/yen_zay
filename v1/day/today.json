@@ -179,8 +179,14 @@
             "USDRatePerDollar": "156.274417",
             "MMKRatePerYen": "22.214000",
             "DayTime": "22 19:20"
+        },
+        {
+            "YearMonth": "2024/04",
+            "USDRatePerDollar": "156.274417",
+            "MMKRatePerYen": "22.214000",
+            "DayTime": "22 20:20"
         }
     ],
-    "Count": 30,
-    "ScannedCount": 30
+    "Count": 31,
+    "ScannedCount": 31
 }
