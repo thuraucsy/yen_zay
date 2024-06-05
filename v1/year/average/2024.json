@@ -1424,6 +1424,15 @@
                 "USDRatePerDollarTotal": 4902.371074,
                 "MMKRatePerYenTotal": 694.6414799999997,
                 "Count": 31
+            },
+            "05": {
+                "YearMonth": "2024/06",
+                "USDRatePerDollar": 157.01237627777772,
+                "MMKRatePerYen": 22.47681833333333,
+                "DayTime": "05 00:00",
+                "USDRatePerDollarTotal": 5652.445545999998,
+                "MMKRatePerYenTotal": 809.1654599999999,
+                "Count": 36
             }
         }
     }
