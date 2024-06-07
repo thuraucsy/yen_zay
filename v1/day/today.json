@@ -239,8 +239,16 @@
             "GoldPriceYenPerGram": "13158",
             "MMKRatePerYen": "22.531000",
             "DayTime": "07 20:20"
+        },
+        {
+            "YearMonth": "2024/06",
+            "GoldPriceDateTime": "2024/06/07 09:30",
+            "USDRatePerDollar": "157.356412",
+            "GoldPriceYenPerGram": "13158",
+            "MMKRatePerYen": "22.531000",
+            "DayTime": "07 21:20"
         }
     ],
-    "Count": 30,
-    "ScannedCount": 30
+    "Count": 31,
+    "ScannedCount": 31
 }
