@@ -63,8 +63,48 @@
             "GoldPriceYenPerGram": "13579",
             "MMKRatePerYen": "22.965900",
             "DayTime": "19 07:20"
+        },
+        {
+            "YearMonth": "2024/07",
+            "GoldPriceDateTime": "2024/07/18 09:30",
+            "USDRatePerDollar": "158.957240",
+            "GoldPriceYenPerGram": "13579",
+            "MMKRatePerYen": "22.965900",
+            "DayTime": "19 08:20"
+        },
+        {
+            "YearMonth": "2024/07",
+            "GoldPriceDateTime": "2024/07/19 09:30",
+            "USDRatePerDollar": "158.95",
+            "GoldPriceYenPerGram": "13579",
+            "MMKRatePerYen": "22.965900",
+            "DayTime": "19 09:20"
+        },
+        {
+            "YearMonth": "2024/07",
+            "GoldPriceDateTime": "2024/07/19 09:30",
+            "USDRatePerDollar": "158.95",
+            "GoldPriceYenPerGram": "13579",
+            "MMKRatePerYen": "22.965900",
+            "DayTime": "19 10:06"
+        },
+        {
+            "YearMonth": "2024/07",
+            "GoldPriceDateTime": "2024/07/19 09:30",
+            "USDRatePerDollar": "158.957240",
+            "GoldPriceYenPerGram": "13579",
+            "MMKRatePerYen": "22.965900",
+            "DayTime": "19 10:20"
+        },
+        {
+            "YearMonth": "2024/07",
+            "GoldPriceDateTime": "2024/07/19 09:30",
+            "USDRatePerDollar": "158.95",
+            "GoldPriceYenPerGram": "13579",
+            "MMKRatePerYen": "22.965900",
+            "DayTime": "19 10:35"
         }
     ],
-    "Count": 8,
-    "ScannedCount": 8
+    "Count": 13,
+    "ScannedCount": 13
 }
