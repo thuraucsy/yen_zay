@@ -491,13 +491,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "တပေါင်းလပြည့်နေ့",
-            "startDate": "2024-03-25",
-            "endDate": "2024-03-26",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "သင်္ကြန်နေ့",
             "startDate": "2024-04-13",
             "endDate": "2024-04-14",
@@ -1565,6 +1558,160 @@
             "summary": "အစ်နေ့",
             "startDate": "2024-06-18",
             "endDate": "2024-06-19",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "နှစ်သစ်ကူးနေ့",
+            "startDate": "2025-01-01",
+            "endDate": "2025-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "လွတ်လပ်ရေးနေ့",
+            "startDate": "2025-01-04",
+            "endDate": "2025-01-05",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Lunar New Year",
+            "startDate": "2025-01-29",
+            "endDate": "2025-01-30",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ပြည်ထောင်စုနေ့",
+            "startDate": "2025-02-12",
+            "endDate": "2025-02-13",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "တောင်သူလယ်သမားနေ့",
+            "startDate": "2025-03-02",
+            "endDate": "2025-03-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "တပေါင်းလပြည့်နေ့",
+            "startDate": "2025-03-13",
+            "endDate": "2025-03-14",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "တပ်မတော်နေ့",
+            "startDate": "2025-03-27",
+            "endDate": "2025-03-28",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-13",
+            "endDate": "2025-04-14",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-14",
+            "endDate": "2025-04-15",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-15",
+            "endDate": "2025-04-16",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-16",
+            "endDate": "2025-04-17",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-17",
+            "endDate": "2025-04-18",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-18",
+            "endDate": "2025-04-19",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-19",
+            "endDate": "2025-04-20",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-20",
+            "endDate": "2025-04-21",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-21",
+            "endDate": "2025-04-22",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "သင်္ကြန်နေ့",
+            "startDate": "2025-04-22",
+            "endDate": "2025-04-23",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "အလုပ်သမားနေ့",
+            "startDate": "2025-05-01",
+            "endDate": "2025-05-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ကဆုန်လပြည့်နေ့",
+            "startDate": "2025-05-11",
+            "endDate": "2025-05-12",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "အစ်နေ့",
+            "startDate": "2025-06-07",
+            "endDate": "2025-06-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ဝါဆိုလပြည့်နေ့ (ဝါဝင်)",
+            "startDate": "2025-07-09",
+            "endDate": "2025-07-10",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "အာဇာနည်နေ့",
+            "startDate": "2025-07-19",
+            "endDate": "2025-07-20",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
