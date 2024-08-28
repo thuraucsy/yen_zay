@@ -3142,6 +3142,356 @@
             "endDate": "2029-11-04",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 2 Bank Holiday",
+            "startDate": "2019-01-02",
+            "endDate": "2019-01-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 3 Bank Holiday",
+            "startDate": "2019-01-03",
+            "endDate": "2019-01-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Setsubun",
+            "startDate": "2019-02-03",
+            "endDate": "2019-02-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Mother's Day",
+            "startDate": "2019-05-12",
+            "endDate": "2019-05-13",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "7-5-3 Day",
+            "startDate": "2019-11-15",
+            "endDate": "2019-11-16",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Christmas",
+            "startDate": "2019-12-25",
+            "endDate": "2019-12-26",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 3 Bank Holiday",
+            "startDate": "2020-01-03",
+            "endDate": "2020-01-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Setsubun",
+            "startDate": "2020-02-03",
+            "endDate": "2020-02-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Dolls' Festival/Girls' Festival",
+            "startDate": "2020-03-03",
+            "endDate": "2020-03-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Mother's Day",
+            "startDate": "2020-05-10",
+            "endDate": "2020-05-11",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Star Festival",
+            "startDate": "2020-07-07",
+            "endDate": "2020-07-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Christmas",
+            "startDate": "2020-12-25",
+            "endDate": "2020-12-26",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "December 31 Bank Holiday",
+            "startDate": "2020-12-31",
+            "endDate": "2021-01-01",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 1 Bank Holiday",
+            "startDate": "2021-01-01",
+            "endDate": "2021-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 3 Bank Holiday",
+            "startDate": "2021-01-03",
+            "endDate": "2021-01-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Dolls' Festival/Girls' Festival",
+            "startDate": "2021-03-03",
+            "endDate": "2021-03-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Star Festival",
+            "startDate": "2021-07-07",
+            "endDate": "2021-07-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "7-5-3 Day",
+            "startDate": "2021-11-15",
+            "endDate": "2021-11-16",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Mother's Day",
+            "startDate": "2022-05-08",
+            "endDate": "2022-05-09",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 1 Bank Holiday",
+            "startDate": "2023-01-01",
+            "endDate": "2023-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 2 Bank Holiday",
+            "startDate": "2023-01-02",
+            "endDate": "2023-01-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 3 Bank Holiday",
+            "startDate": "2023-01-03",
+            "endDate": "2023-01-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Mother's Day",
+            "startDate": "2023-05-14",
+            "endDate": "2023-05-15",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Star Festival",
+            "startDate": "2023-07-07",
+            "endDate": "2023-07-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 2 Bank Holiday",
+            "startDate": "2024-01-02",
+            "endDate": "2024-01-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 3 Bank Holiday",
+            "startDate": "2024-01-03",
+            "endDate": "2024-01-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Dolls' Festival/Girls' Festival",
+            "startDate": "2024-03-03",
+            "endDate": "2024-03-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Star Festival",
+            "startDate": "2024-07-07",
+            "endDate": "2024-07-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Christmas",
+            "startDate": "2024-12-25",
+            "endDate": "2024-12-26",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Setsubun",
+            "startDate": "2025-02-03",
+            "endDate": "2025-02-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Dolls' Festival/Girls' Festival",
+            "startDate": "2025-03-03",
+            "endDate": "2025-03-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Mother's Day",
+            "startDate": "2025-05-11",
+            "endDate": "2025-05-12",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "December 31 Bank Holiday",
+            "startDate": "2025-12-31",
+            "endDate": "2026-01-01",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Setsubun",
+            "startDate": "2026-02-03",
+            "endDate": "2026-02-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Star Festival",
+            "startDate": "2026-07-07",
+            "endDate": "2026-07-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Christmas",
+            "startDate": "2026-12-25",
+            "endDate": "2026-12-26",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 2 Bank Holiday",
+            "startDate": "2027-01-02",
+            "endDate": "2027-01-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Setsubun",
+            "startDate": "2027-02-03",
+            "endDate": "2027-02-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Mother's Day",
+            "startDate": "2027-05-09",
+            "endDate": "2027-05-10",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Star Festival",
+            "startDate": "2027-07-07",
+            "endDate": "2027-07-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "7-5-3 Day",
+            "startDate": "2027-11-15",
+            "endDate": "2027-11-16",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Christmas",
+            "startDate": "2027-12-25",
+            "endDate": "2027-12-26",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 3 Bank Holiday",
+            "startDate": "2028-01-03",
+            "endDate": "2028-01-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Dolls' Festival/Girls' Festival",
+            "startDate": "2028-03-03",
+            "endDate": "2028-03-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Mother's Day",
+            "startDate": "2028-05-14",
+            "endDate": "2028-05-15",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Star Festival",
+            "startDate": "2028-07-07",
+            "endDate": "2028-07-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Christmas",
+            "startDate": "2028-12-25",
+            "endDate": "2028-12-26",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 1 Bank Holiday",
+            "startDate": "2029-01-01",
+            "endDate": "2029-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Star Festival",
+            "startDate": "2029-07-07",
+            "endDate": "2029-07-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "7-5-3 Day",
+            "startDate": "2029-11-15",
+            "endDate": "2029-11-16",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
         }
     ]
 }
