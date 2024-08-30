@@ -1688,13 +1688,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "အစ်နေ့",
-            "startDate": "2025-06-07",
-            "endDate": "2025-06-08",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "ဝါဆိုလပြည့်နေ့ (ဝါဝင်)",
             "startDate": "2025-07-09",
             "endDate": "2025-07-10",
@@ -1740,6 +1733,13 @@
             "summary": "ဒီပါဝရီနေ့ (ဒီဝါလီ)",
             "startDate": "2025-10-20",
             "endDate": "2025-10-21",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "တန်ဆောင်မုန်းလပြည့်နေ့",
+            "startDate": "2025-11-04",
+            "endDate": "2025-11-05",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
