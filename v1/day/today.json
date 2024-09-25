@@ -1,5 +1,15 @@
 {
-    "Items": [],
-    "Count": 0,
-    "ScannedCount": 0
+    "Items": [
+        {
+            "YearMonth": "2024/09",
+            "USDRatePerDollar": "143.16",
+            "DayTime": "24 11:48",
+            "GoldPriceDateTime": "2024/09/25 9:30",
+            "GoldPriceYenPerGram": "13517",
+            "PlatinumPriceYenPerGram": "5093",
+            "MMKRatePerYen": "31.342500"
+        }
+    ],
+    "Count": 1,
+    "ScannedCount": 1
 }
