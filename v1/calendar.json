@@ -1184,13 +1184,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "ဒီပါဝရီနေ့ (ဒီဝါလီ)",
-            "startDate": "2024-11-01",
-            "endDate": "2024-11-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "လွတ်လပ်ရေးနေ့",
             "startDate": "2019-01-04",
             "endDate": "2019-01-05",
@@ -1747,6 +1740,13 @@
             "summary": "National Day",
             "startDate": "2025-11-14",
             "endDate": "2025-11-15",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "ကရင်နှစ်သစ်ကူးနေ့",
+            "startDate": "2025-12-19",
+            "endDate": "2025-12-20",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
