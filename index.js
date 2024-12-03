@@ -190,7 +190,7 @@ function main () {
             console.log('googleapis response1')
             const filterData = response.data.items.map(function (x) {
               return {
-                summary: getMyanmarNameDay(x.summary),
+                summary: x.summary,
                 startDate: x.start.date,
                 endDate: x.end.date,
                 status: x.status,
