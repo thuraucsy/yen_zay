@@ -3060,6 +3060,15 @@
     },
     "202412": {
         "Items": {
+            "10": {
+                "YearMonth": "2024/12",
+                "USDRatePerDollar": 151.98985684848478,
+                "MMKRatePerYen": 29.66348484848486,
+                "DayTime": "10 00:00",
+                "USDRatePerDollarTotal": 5015.665275999998,
+                "MMKRatePerYenTotal": 978.8950000000003,
+                "Count": 33
+            },
             "01": {
                 "YearMonth": "2024/12",
                 "USDRatePerDollar": 150.87451111111108,
