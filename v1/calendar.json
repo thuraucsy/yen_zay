@@ -3354,13 +3354,6 @@
             "displayName": "Holidays in Japan"
         },
         {
-            "summary": "Setsubun",
-            "startDate": "2025-02-03",
-            "endDate": "2025-02-04",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
             "summary": "Dolls' Festival/Girls' Festival",
             "startDate": "2025-03-03",
             "endDate": "2025-03-04",
@@ -3497,6 +3490,13 @@
             "summary": "7-5-3 Day",
             "startDate": "2029-11-15",
             "endDate": "2029-11-16",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "January 1 Bank Holiday",
+            "startDate": "2019-01-01",
+            "endDate": "2019-01-02",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
         }
