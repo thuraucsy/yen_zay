@@ -26,8 +26,17 @@
             "GoldPriceYenPerGram": "16927",
             "PlatinumPriceYenPerGram": "5094",
             "MMKRatePerYen": "30.878800"
+        },
+        {
+            "YearMonth": "2025/04",
+            "USDRatePerDollar": "144.446049",
+            "DayTime": "28 03:20",
+            "GoldPriceDateTime": "2025/04/26 9:30:00",
+            "GoldPriceYenPerGram": "16927",
+            "PlatinumPriceYenPerGram": "5094",
+            "MMKRatePerYen": "30.878800"
         }
     ],
-    "Count": 3,
-    "ScannedCount": 3
+    "Count": 4,
+    "ScannedCount": 4
 }
