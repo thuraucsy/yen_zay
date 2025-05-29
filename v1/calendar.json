@@ -2899,13 +2899,6 @@
             "displayName": "Holidays in Japan"
         },
         {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2023-01-02",
-            "endDate": "2023-01-03",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
             "summary": "Mother's Day",
             "startDate": "2023-05-14",
             "endDate": "2023-05-15",
@@ -2916,13 +2909,6 @@
             "summary": "Star Festival",
             "startDate": "2023-07-07",
             "endDate": "2023-07-08",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2024-01-02",
-            "endDate": "2024-01-03",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
         },
@@ -2979,13 +2965,6 @@
             "summary": "Christmas",
             "startDate": "2026-12-25",
             "endDate": "2026-12-26",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2027-01-02",
-            "endDate": "2027-01-03",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
         },
@@ -3074,13 +3053,6 @@
             "displayName": "Holidays in Japan"
         },
         {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2021-01-02",
-            "endDate": "2021-01-03",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
             "summary": "Mother's Day",
             "startDate": "2021-05-09",
             "endDate": "2021-05-10",
@@ -3091,13 +3063,6 @@
             "summary": "Christmas",
             "startDate": "2021-12-25",
             "endDate": "2021-12-26",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2022-01-02",
-            "endDate": "2022-01-03",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
         },
@@ -3175,13 +3140,6 @@
             "summary": "7-5-3 Day",
             "startDate": "2024-11-15",
             "endDate": "2024-11-16",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2025-01-02",
-            "endDate": "2025-01-03",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
         },
@@ -3270,13 +3228,6 @@
             "displayName": "Holidays in Japan"
         },
         {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2020-01-02",
-            "endDate": "2020-01-03",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
             "summary": "Setsubun",
             "startDate": "2021-02-02",
             "endDate": "2021-02-03",
@@ -3287,27 +3238,6 @@
             "summary": "Christmas",
             "startDate": "2023-12-25",
             "endDate": "2023-12-26",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2026-01-02",
-            "endDate": "2026-01-03",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2028-01-02",
-            "endDate": "2028-01-03",
-            "status": "confirmed",
-            "displayName": "Holidays in Japan"
-        },
-        {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2029-01-02",
-            "endDate": "2029-01-03",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
         },
@@ -3333,9 +3263,79 @@
             "displayName": "Holidays in Japan"
         },
         {
-            "summary": "January 2 Bank Holiday",
-            "startDate": "2030-01-02",
-            "endDate": "2030-01-03",
+            "summary": "Coming of Age Day",
+            "startDate": "2030-01-14",
+            "endDate": "2030-01-15",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Setsubun",
+            "startDate": "2030-02-03",
+            "endDate": "2030-02-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "National Foundation Day",
+            "startDate": "2030-02-11",
+            "endDate": "2030-02-12",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Emperor's Birthday",
+            "startDate": "2030-02-23",
+            "endDate": "2030-02-24",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Dolls' Festival/Girls' Festival",
+            "startDate": "2030-03-03",
+            "endDate": "2030-03-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Spring Equinox",
+            "startDate": "2030-03-20",
+            "endDate": "2030-03-21",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Shōwa Day",
+            "startDate": "2030-04-29",
+            "endDate": "2030-04-30",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Constitution Memorial Day",
+            "startDate": "2030-05-03",
+            "endDate": "2030-05-04",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Greenery Day",
+            "startDate": "2030-05-04",
+            "endDate": "2030-05-05",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Children's Day",
+            "startDate": "2030-05-05",
+            "endDate": "2030-05-06",
+            "status": "confirmed",
+            "displayName": "Holidays in Japan"
+        },
+        {
+            "summary": "Children's Day observed",
+            "startDate": "2030-05-06",
+            "endDate": "2030-05-07",
             "status": "confirmed",
             "displayName": "Holidays in Japan"
         }
