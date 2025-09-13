@@ -71,13 +71,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "New Year Holiday",
-            "startDate": "2022-01-01",
-            "endDate": "2022-01-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Maha Thingyan (Water Festival)",
             "startDate": "2022-04-10",
             "endDate": "2022-04-11",
@@ -477,13 +470,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "New Year Holiday",
-            "startDate": "2021-01-01",
-            "endDate": "2021-01-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Union Day",
             "startDate": "2021-02-12",
             "endDate": "2021-02-13",
@@ -715,13 +701,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "New Year Holiday",
-            "startDate": "2024-01-01",
-            "endDate": "2024-01-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Eid al-Adha",
             "startDate": "2024-06-17",
             "endDate": "2024-06-18",
@@ -939,13 +918,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "New Year Holiday",
-            "startDate": "2023-01-01",
-            "endDate": "2023-01-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Union Day",
             "startDate": "2023-02-12",
             "endDate": "2023-02-13",
@@ -1019,13 +991,6 @@
             "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
             "startDate": "2024-10-18",
             "endDate": "2024-10-19",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "New Year Holiday",
-            "startDate": "2020-01-01",
-            "endDate": "2020-01-02",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
@@ -1366,13 +1331,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "New Year Holiday",
-            "startDate": "2025-01-01",
-            "endDate": "2025-01-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Independence Day",
             "startDate": "2025-01-04",
             "endDate": "2025-01-05",
@@ -1586,6 +1544,160 @@
             "summary": "Eid al-Adha",
             "startDate": "2025-06-07",
             "endDate": "2025-06-08",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "New Year",
+            "startDate": "2020-01-01",
+            "endDate": "2020-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "New Year",
+            "startDate": "2021-01-01",
+            "endDate": "2021-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "New Year",
+            "startDate": "2022-01-01",
+            "endDate": "2022-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "New Year",
+            "startDate": "2023-01-01",
+            "endDate": "2023-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "New Year",
+            "startDate": "2024-01-01",
+            "endDate": "2024-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "New Year",
+            "startDate": "2025-01-01",
+            "endDate": "2025-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "New Year",
+            "startDate": "2026-01-01",
+            "endDate": "2026-01-02",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "New Year Holiday",
+            "startDate": "2026-01-02",
+            "endDate": "2026-01-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Independence Day",
+            "startDate": "2026-01-04",
+            "endDate": "2026-01-05",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Union Day",
+            "startDate": "2026-02-12",
+            "endDate": "2026-02-13",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Union Day Holiday",
+            "startDate": "2026-02-13",
+            "endDate": "2026-02-14",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Chinese New Year",
+            "startDate": "2026-02-16",
+            "endDate": "2026-02-17",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Chinese New Year Holiday",
+            "startDate": "2026-02-17",
+            "endDate": "2026-02-18",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Full Moon Day of Tabaung",
+            "startDate": "2026-03-02",
+            "endDate": "2026-03-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Peasants' Day",
+            "startDate": "2026-03-02",
+            "endDate": "2026-03-03",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Armed Forces' Day",
+            "startDate": "2026-03-27",
+            "endDate": "2026-03-28",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Maha Thingyan (Water Festival)",
+            "startDate": "2026-04-11",
+            "endDate": "2026-04-12",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Maha Thingyan (Water Festival)",
+            "startDate": "2026-04-12",
+            "endDate": "2026-04-13",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Maha Thingyan (Water Festival)",
+            "startDate": "2026-04-13",
+            "endDate": "2026-04-14",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Maha Thingyan (Water Festival)",
+            "startDate": "2026-04-14",
+            "endDate": "2026-04-15",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Maha Thingyan (Water Festival)",
+            "startDate": "2026-04-15",
+            "endDate": "2026-04-16",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Maha Thingyan (Water Festival)",
+            "startDate": "2026-04-16",
+            "endDate": "2026-04-17",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
