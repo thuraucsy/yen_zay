@@ -659,13 +659,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "Labor Day / May Day",
-            "startDate": "2023-05-01",
-            "endDate": "2023-05-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Full Moon Day of Kasong",
             "startDate": "2023-05-03",
             "endDate": "2023-05-04",
@@ -725,13 +718,6 @@
             "summary": "Maha Thingyan (Water Festival)",
             "startDate": "2020-04-16",
             "endDate": "2020-04-17",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "Labor Day / May Day",
-            "startDate": "2020-05-01",
-            "endDate": "2020-05-02",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
@@ -981,13 +967,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "Labor Day / May Day",
-            "startDate": "2024-05-01",
-            "endDate": "2024-05-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
             "startDate": "2024-10-18",
             "endDate": "2024-10-19",
@@ -1054,13 +1033,6 @@
             "summary": "Maha Thingyan (Water Festival)",
             "startDate": "2021-04-17",
             "endDate": "2021-04-18",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "Labor Day / May Day",
-            "startDate": "2021-05-01",
-            "endDate": "2021-05-02",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
@@ -1187,13 +1159,6 @@
             "summary": "Maha Thingyan (Water Festival)",
             "startDate": "2022-04-15",
             "endDate": "2022-04-16",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "Labor Day / May Day",
-            "startDate": "2022-05-01",
-            "endDate": "2022-05-02",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
@@ -1436,13 +1401,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "Labor Day / May Day",
-            "startDate": "2025-05-01",
-            "endDate": "2025-05-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Full Moon Day of Kasong",
             "startDate": "2025-05-11",
             "endDate": "2025-05-12",
@@ -1488,13 +1446,6 @@
             "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
             "startDate": "2025-10-08",
             "endDate": "2025-10-09",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
-            "summary": "Diwali/Deepavali",
-            "startDate": "2025-10-20",
-            "endDate": "2025-10-21",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
@@ -1730,13 +1681,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "Labor Day / May Day",
-            "startDate": "2026-05-01",
-            "endDate": "2026-05-02",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Martyrs' Day",
             "startDate": "2026-07-19",
             "endDate": "2026-07-20",
@@ -1747,6 +1691,55 @@
             "summary": "Full Moon Day of Waso (Beginning of Buddhist Lent)",
             "startDate": "2026-07-29",
             "endDate": "2026-07-30",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Full Moon Day of Thadingyut (End of Buddhist Lent)",
+            "startDate": "2026-10-25",
+            "endDate": "2026-10-26",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
+            "startDate": "2026-10-26",
+            "endDate": "2026-10-27",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Full Moon Day of Thadingyut Holiday (End of Buddhist Lent)",
+            "startDate": "2026-10-27",
+            "endDate": "2026-10-28",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Full Moon Day of Tazaungmone",
+            "startDate": "2026-11-23",
+            "endDate": "2026-11-24",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Full Moon Day of Tazaungmone Holiday",
+            "startDate": "2026-11-24",
+            "endDate": "2026-11-25",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "National Day",
+            "startDate": "2026-12-04",
+            "endDate": "2026-12-05",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Christmas Day",
+            "startDate": "2026-12-25",
+            "endDate": "2026-12-26",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
