@@ -2,23 +2,14 @@
     "Items": [
         {
             "YearMonth": "2025/10",
-            "USDRatePerDollar": "154.130703",
-            "DayTime": "27 13:05",
-            "GoldPriceDateTime": "2025/10/27 9:30:00",
-            "GoldPriceYenPerGram": "22103",
-            "PlatinumPriceYenPerGram": "8841",
-            "MMKRatePerYen": "26.516000"
-        },
-        {
-            "YearMonth": "2025/10",
-            "USDRatePerDollar": "154.130703",
-            "DayTime": "27 14:05",
-            "GoldPriceDateTime": "2025/10/27 14:00:00",
-            "GoldPriceYenPerGram": "22103",
-            "PlatinumPriceYenPerGram": "8869",
-            "MMKRatePerYen": "26.516000"
+            "USDRatePerDollar": "153.988297",
+            "GoldPriceDateTime": "2025/10/28 9:30:00",
+            "GoldPriceYenPerGram": "21587",
+            "PlatinumPriceYenPerGram": "8651",
+            "MMKRatePerYen": "26.590600",
+            "DayTime": "28 10:25"
         }
     ],
-    "Count": 2,
-    "ScannedCount": 2
+    "Count": 1,
+    "ScannedCount": 1
 }
