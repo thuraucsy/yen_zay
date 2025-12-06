@@ -2762,6 +2762,15 @@
                 "USDRatePerDollarTotal": 312.964651,
                 "MMKRatePerYenTotal": 51.7382,
                 "Count": 2
+            },
+            "05": {
+                "YearMonth": "2025/12",
+                "USDRatePerDollar": 156.164606,
+                "MMKRatePerYen": 25.894,
+                "DayTime": "05 00:00",
+                "USDRatePerDollarTotal": 312.329212,
+                "MMKRatePerYenTotal": 51.788,
+                "Count": 2
             }
         }
     }
