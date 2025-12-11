@@ -2727,6 +2727,15 @@
     },
     "202512": {
         "Items": {
+            "10": {
+                "YearMonth": "2025/12",
+                "USDRatePerDollar": 157.89066150000002,
+                "MMKRatePerYen": 25.447,
+                "DayTime": "10 00:00",
+                "USDRatePerDollarTotal": 315.78132300000004,
+                "MMKRatePerYenTotal": 50.894,
+                "Count": 2
+            },
             "01": {
                 "YearMonth": "2025/12",
                 "USDRatePerDollar": 156.999248,
