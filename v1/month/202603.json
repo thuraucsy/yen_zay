@@ -71,8 +71,26 @@
             "PlatinumPriceYenPerGram": "12133",
             "MMKRatePerYen": "25.095600",
             "DayTime": "04 14:05"
+        },
+        {
+            "YearMonth": "2026/03",
+            "USDRatePerDollar": "158.629442",
+            "GoldPriceDateTime": "2026/03/05 9:30:00",
+            "GoldPriceYenPerGram": "28897",
+            "PlatinumPriceYenPerGram": "12417",
+            "MMKRatePerYen": "25.262100",
+            "DayTime": "05 10:20"
+        },
+        {
+            "YearMonth": "2026/03",
+            "USDRatePerDollar": "158.704967",
+            "GoldPriceDateTime": "2026/03/05 14:00:00",
+            "GoldPriceYenPerGram": "28924",
+            "PlatinumPriceYenPerGram": "12390",
+            "MMKRatePerYen": "25.262100",
+            "DayTime": "05 14:10"
         }
     ],
-    "Count": 8,
-    "ScannedCount": 8
+    "Count": 10,
+    "ScannedCount": 10
 }
