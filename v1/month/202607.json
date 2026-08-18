@@ -494,8 +494,62 @@
             "PlatinumPriceYenPerGram": "9519",
             "MMKRatePerYen": "24.066200",
             "DayTime": "28 15:45"
+        },
+        {
+            "YearMonth": "2026/07",
+            "USDRatePerDollar": "165.535507",
+            "GoldPriceDateTime": "2026/07/29 9:30:00",
+            "GoldPriceYenPerGram": "23510",
+            "PlatinumPriceYenPerGram": "9527",
+            "MMKRatePerYen": "24.080900",
+            "DayTime": "29 10:40"
+        },
+        {
+            "YearMonth": "2026/07",
+            "USDRatePerDollar": "165.343915",
+            "GoldPriceDateTime": "2026/07/29 14:00:00",
+            "GoldPriceYenPerGram": "23445",
+            "PlatinumPriceYenPerGram": "9418",
+            "MMKRatePerYen": "24.080900",
+            "DayTime": "29 14:00"
+        },
+        {
+            "YearMonth": "2026/07",
+            "USDRatePerDollar": "165.207335",
+            "GoldPriceDateTime": "2026/07/30 14:00:00",
+            "GoldPriceYenPerGram": "23582",
+            "PlatinumPriceYenPerGram": "9416",
+            "MMKRatePerYen": "24.113200",
+            "DayTime": "30 10:20"
+        },
+        {
+            "YearMonth": "2026/07",
+            "USDRatePerDollar": "161.368404",
+            "GoldPriceDateTime": "2026/07/31 9:30:00",
+            "GoldPriceYenPerGram": "23395",
+            "PlatinumPriceYenPerGram": "9600",
+            "MMKRatePerYen": "24.113200",
+            "DayTime": "30 13:50"
+        },
+        {
+            "YearMonth": "2026/07",
+            "USDRatePerDollar": "162.36402",
+            "GoldPriceDateTime": "2026/07/31 14:00:00",
+            "GoldPriceYenPerGram": "23368",
+            "PlatinumPriceYenPerGram": "9545",
+            "MMKRatePerYen": "24.531600",
+            "DayTime": "31 10:20"
+        },
+        {
+            "YearMonth": "2026/07",
+            "USDRatePerDollar": "162.36402",
+            "GoldPriceDateTime": "2026/08/01 9:30:00",
+            "GoldPriceYenPerGram": "22896",
+            "PlatinumPriceYenPerGram": "9501",
+            "MMKRatePerYen": "24.531600",
+            "DayTime": "31 14:00"
         }
     ],
-    "Count": 55,
-    "ScannedCount": 55
+    "Count": 61,
+    "ScannedCount": 61
 }
