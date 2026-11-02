@@ -2765,5 +2765,18 @@
                 "Count": 2
             }
         }
+    },
+    "202611": {
+        "Items": {
+            "01": {
+                "YearMonth": "2026/11",
+                "USDRatePerDollar": 158.102767,
+                "MMKRatePerYen": 25.1431,
+                "DayTime": "01 00:00",
+                "USDRatePerDollarTotal": 316.205534,
+                "MMKRatePerYenTotal": 50.2862,
+                "Count": 2
+            }
+        }
     }
 }
