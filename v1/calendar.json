@@ -1618,13 +1618,6 @@
             "displayName": "Holidays in Myanmar"
         },
         {
-            "summary": "Diwali",
-            "startDate": "2026-11-08",
-            "endDate": "2026-11-09",
-            "status": "confirmed",
-            "displayName": "Holidays in Myanmar"
-        },
-        {
             "summary": "Working Day",
             "startDate": "2026-02-22",
             "endDate": "2026-02-23",
@@ -1747,6 +1740,13 @@
             "summary": "Maha Thingyan (Water Festival)",
             "startDate": "2027-04-14",
             "endDate": "2027-04-15",
+            "status": "confirmed",
+            "displayName": "Holidays in Myanmar"
+        },
+        {
+            "summary": "Maha Thingyan (Water Festival)",
+            "startDate": "2027-04-15",
+            "endDate": "2027-04-16",
             "status": "confirmed",
             "displayName": "Holidays in Myanmar"
         },
